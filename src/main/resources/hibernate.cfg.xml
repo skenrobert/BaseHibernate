@@ -43,6 +43,8 @@
         <mapping class="com.springsimplespasos.hibernate.entidades.onetoone.Carnet" />
         <mapping class="com.springsimplespasos.hibernate.entidades.manytoone.Persona" />
         <mapping class="com.springsimplespasos.hibernate.entidades.manytoone.Telefono" />
+        <mapping class="com.springsimplespasos.hibernate.entidades.manytomany.Publicacione" />
+        <mapping class="com.springsimplespasos.hibernate.entidades.manytomany.Usuario" />
 
 
     </session-factory>
